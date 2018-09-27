@@ -1,2 +1,2 @@
-# Turtlebot_object_recognition
-The node of object recognition for the project "Turtlebot hockey game".
+# Turtlebot_hockey_game
+The project of "Turtlebot hockey game".
