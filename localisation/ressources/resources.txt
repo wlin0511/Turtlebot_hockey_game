@@ -1,0 +1,6 @@
+ROS packages that are already available: 
+• rtabmap_ros : http://wiki.ros.org/rtabmap_ros
+• find_object_2d : http://wiki.ros.org/find_object_2d
+
+Mapping and localization with Turtlebot: 
+• http://wiki.ros.org/rtabmap_ros/Tutorials/MappingAndNavigationOnTurtlebot

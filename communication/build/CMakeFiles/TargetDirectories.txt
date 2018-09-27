@@ -1,0 +1,5 @@
+/home/ga63xaf/angelina/build/angelina/CMakeFiles/angelina.dir
+/home/ga63xaf/angelina/build/angelina/CMakeFiles/angelina-doc.dir
+/home/ga63xaf/angelina/build/hermes/CMakeFiles/referee.dir
+/home/ga63xaf/angelina/build/hermes/CMakeFiles/referee-doc.dir
+/home/ga63xaf/angelina/build/example/CMakeFiles/testgui.dir

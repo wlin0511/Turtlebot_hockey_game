@@ -1,0 +1,5 @@
+#CREATE request parameters
+geometry_msgs/Pose2D des_pose
+--------------------------------
+#CREATE response parameters
+bool send

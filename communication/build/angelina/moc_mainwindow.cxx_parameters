@@ -1,0 +1,14 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4/QtNetwork
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4
+-I/home/ga63xaf/angelina/hermes
+-DQT_GUI_LIB
+-DQT_XML_LIB
+-DQT_NETWORK_LIB
+-DQT_CORE_LIB
+-o
+/home/ga63xaf/angelina/build/angelina/moc_mainwindow.cxx
+/home/ga63xaf/angelina/angelina/mainwindow.h

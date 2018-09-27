@@ -1,0 +1,6 @@
+#CREATE request parameters
+float64 x_lenght
+float64 y_lenght
+--------------------------------
+#CREATE response parameters
+bool send

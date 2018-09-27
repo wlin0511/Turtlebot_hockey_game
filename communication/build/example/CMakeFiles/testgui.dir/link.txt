@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/testgui.dir/testgui.cpp.o CMakeFiles/testgui.dir/main.cpp.o CMakeFiles/testgui.dir/moc_testgui.cxx.o  -o testgui -rdynamic -lQtGui -lQtXml -lQtNetwork -lQtCore ../hermes/libreferee.a -lQtGui -lQtXml -lQtNetwork -lQtCore 

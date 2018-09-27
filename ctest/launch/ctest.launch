@@ -1,0 +1,3 @@
+<launch>
+        <node name="ctest_node" pkg="ctest" type="ctest_node" output="screen" />
+</launch>
